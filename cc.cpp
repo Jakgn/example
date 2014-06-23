@@ -11,5 +11,6 @@ int main()
 	if(a==1){
 		a=5;
 	}
+        printf("hello");
 	return 0;
 }
