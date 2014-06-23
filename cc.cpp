@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int ww=0;
+	int ww=100;
 	int a = 0;
 	int b = 1;
 	while(0);
